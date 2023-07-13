@@ -1,0 +1,109 @@
+[{
+    "id": 1,
+    "tipo": "Ps4",
+    "nombre": "Sonic ",
+    "precio": 32000,
+    "foto": "./media/Sonic.jpg"
+}, {
+    "id": 2,
+    "tipo": "Ps4",
+    "nombre": "God of War Ragnarok",
+    "precio": 32200,
+    "foto": "./media/gowrag.jpg"
+}, {
+    "id": 3,
+    "tipo": "Ps4",
+    "nombre": "Call of Duty Modern Warefare II",
+    "precio": 39900,
+    "foto": "./media/Call of Duty Modern Warefare II.jpg"
+}, {
+    "id": 4,
+    "tipo": "Ps4",
+    "nombre": "Captain Tsubasa Rise of New Champions",
+    "precio": 11100,
+    "foto": "./media/captain tsubasa rise of new champions.jpg"
+}, {
+    "id": 5,
+    "tipo": "Ps4",
+    "nombre": "Cooking Mama Cookstar",
+    "precio": 8800,
+    "foto": "./media/cooking mama cookstar.jpg"
+}, {
+    "id": 6,
+    "tipo": "Ps4",
+    "nombre": "Crash Team Rumble Deluxe Edition",
+    "precio": 27700,
+    "foto": "./media/crash team rumble deluxe edition.jpg"
+}, {
+    "id": 7,
+    "tipo": "Ps4",
+    "nombre": "Dark Souls III The Fire Fades Edition",
+    "precio": 10900,
+    "foto": "./media/dark souls III the Fire fades edition.jpg"
+}, {
+    "id": 8,
+    "tipo": "Ps4",
+    "nombre": "F1 2023",
+    "precio": 38800,
+    "foto": "./media/F1 2023.jpg"
+}, {
+    "id": 9,
+    "tipo": "Ps4",
+    "nombre": "Fallout 79",
+    "precio": 19000,
+    "foto": "./media/fallout 76.jpg"
+}, {
+    "id": 10,
+    "tipo": "Ps4",
+    "nombre": "Fifa 23",
+    "precio": 22900,
+    "foto": "./media/fifa 23.jpg"
+}, {
+    "id": 11,
+    "tipo": "Ps4",
+    "nombre": "Like a Dragon Ishin!",
+    "precio": 2900,
+    "foto": "./media/like a dragon ishin!.jpg"
+}, {
+    "id": 12,
+    "tipo": "Ps4",
+    "nombre": "Mortal Kombat 11 Ultimate",
+    "precio": 16600,
+    "foto": "./media/mortal kombat 11 ultimate.jpg"
+}, {
+    "id": 13,
+    "tipo": "Ps4",
+    "nombre": "Outcast Second Contact",
+    "precio": 6600,
+    "foto": "./media/outcast second contact.jpg"
+}, {
+    "id": 14,
+    "tipo": "Ps4",
+    "nombre": "Resident Evil 4 Remake",
+    "precio": 32900,
+    "foto": "./media/resident evil 4 remake.jpg"
+}, {
+    "id": 15,
+    "tipo": "Ps4",
+    "nombre": "Resident Evil Villages",
+    "precio":19900,
+    "foto": "./media/resident evil village.jpg"
+}, {
+    "id": 16,
+    "tipo": "Ps4",
+    "nombre": "Sega Genesis Classics",
+    "precio": 17700,
+    "foto": "./media/sega genesis classics.jpg"
+}, {
+    "id": 17,
+    "tipo": "Ps4",
+    "nombre": "Stray",
+    "precio": 22900,
+    "foto": "./media/stray.jpg"
+}, {
+    "id": 18,
+    "tipo": "Ps4",
+    "nombre": "Street Fighters V Champion Edition",
+    "precio": 6900,
+    "foto": "./media/street fighter V champion edition.jpg"
+}]
